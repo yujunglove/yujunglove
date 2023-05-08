@@ -1,7 +1,5 @@
-### Hi there 👋
+# 🌱 Hello, My Name is Yujung Kim 👋
 
-# 🌱 spring-data-jpa-toyProject
-JPA를 이용한 데이터 조회 및 수정 삭제
 
 # 🤔 USE STACK
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-8CA1AF?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-FFCD00?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
